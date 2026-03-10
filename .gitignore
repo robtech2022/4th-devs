@@ -4,3 +4,12 @@ node_modules/
 
 translated/
 vault/
+01_01_structured/output/people-answer.txt
+exercise_01_python/output/people-answer.txt
+excercise_01_java/target/classes/com/exercise01/App$Person.class
+excercise_01_java/target/classes/com/exercise01/App$1.class
+01_01_structured/output/people.csv
+.github/copilot-instructions.md
+excercise_01_java/output/people-answer.txt
+exercise_01_js/output/people-answer.txt
+excercise_01_java/target/classes/com/exercise01/App.class

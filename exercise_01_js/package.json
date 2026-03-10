@@ -1,0 +1,11 @@
+{
+  "name": "exercise_01",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "AG3NTS Exercise 01 - People filtering and tagging with Structured Output",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "license": "ISC"
+}
