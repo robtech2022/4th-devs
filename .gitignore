@@ -13,3 +13,10 @@ excercise_01_java/target/classes/com/exercise01/App$1.class
 excercise_01_java/output/people-answer.txt
 exercise_01_js/output/people-answer.txt
 excercise_01_java/target/classes/com/exercise01/App.class
+exercise_02_java/output/findhim_locations.json
+exercise_02_java/output/findhim-answer.txt
+exercise_02_java/target/classes/com/exercise02/App.class
+exercise_02_java/target/classes/com/exercise02/App$AgentContext.class
+exercise_02_java/target/classes/com/exercise02/App$Coordinate.class
+exercise_02_java/target/classes/com/exercise02/App$Match.class
+exercise_02_java/target/classes/com/exercise02/App$Suspect.class
