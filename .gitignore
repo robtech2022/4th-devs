@@ -15,8 +15,7 @@ exercise_01_js/output/people-answer.txt
 excercise_01_java/target/classes/com/exercise01/App.class
 exercise_02_java/output/findhim_locations.json
 exercise_02_java/output/findhim-answer.txt
-exercise_02_java/target/classes/com/exercise02/App.class
-exercise_02_java/target/classes/com/exercise02/App$AgentContext.class
-exercise_02_java/target/classes/com/exercise02/App$Coordinate.class
-exercise_02_java/target/classes/com/exercise02/App$Match.class
-exercise_02_java/target/classes/com/exercise02/App$Suspect.class
+*.class
+exercise_02_java/output/ai_devs_4_defaults-3e061598-b.png
+exercise_02_java/output/ai_devs_4_mapping-1a8e7f3c-1.png
+exercise_02_java/output/apache-maven-3.9.14-bin.zip
