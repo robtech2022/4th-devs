@@ -36,7 +36,10 @@ public final class Agent {
 
         for (int round = 0; round < MAX_TOOL_ROUNDS; round++) {
             JsonNode response = api.chat(model, conversation, tools, "auto", instructions);
+            // Log.response(ApiClient.pretty(response));
+
             List<ApiClient.ToolCall> toolCalls = api.extractToolCalls(response);
+            Log.response("toolCalls: " + ApiClient.pretty(toolCalls));
 
             if (toolCalls.isEmpty()) {
                 String text = api.extractText(response);

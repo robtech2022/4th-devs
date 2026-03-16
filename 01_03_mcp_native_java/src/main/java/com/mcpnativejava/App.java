@@ -47,9 +47,9 @@ public final class App {
         System.out.println("Native tools: " + List.of("calculate", "uppercase"));
 
         List<String> queries = List.of(
-                "What's the weather in Tokyo?",
-                "What time is it in Europe/London?",
-                "Calculate 42 multiplied by 17",
+            "Calculate 42 multiplied by 17",    
+            "What's the weather in Tokyo?",
+                "What time is it in Europe/London?",                
                 "Convert 'hello world' to uppercase",
                 "What's 25 + 17, and what's the weather in Paris?"
         );
