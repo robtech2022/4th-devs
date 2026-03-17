@@ -1,6 +1,7 @@
 node_modules/
 .env
 .DS_Store
+sessions/
 
 translated/
 vault/
@@ -19,3 +20,4 @@ exercise_02_java/output/findhim-answer.txt
 exercise_02_java/output/ai_devs_4_defaults-3e061598-b.png
 exercise_02_java/output/ai_devs_4_mapping-1a8e7f3c-1.png
 exercise_02_java/output/apache-maven-3.9.14-bin.zip
+*.lst

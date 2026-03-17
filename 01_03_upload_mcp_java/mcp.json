@@ -1,0 +1,12 @@
+{
+  "mcpServers": {
+    "files": {
+      "transport": "embedded",
+      "root": "./workspace"
+    },
+    "uploadthing": {
+      "transport": "http",
+      "url": "https://URL_TO_YOUR_MCP_SERVER/mcp"
+    }
+  }
+}
